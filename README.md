@@ -1,2 +1,2 @@
-# try-nextjs
+# Next JS
 Try NextJS.
